@@ -1,4 +1,4 @@
-#Partitioning Clustering - K Means Algorithm 
+#Partitioning Clustering - K Means Algorithm (clustering analysis before and after PCA). 
 #Goal: Cluster based on 18 attributes and 4 classes of vehicles. 
 
 library(NbClust)
