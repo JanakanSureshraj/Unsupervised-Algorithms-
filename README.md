@@ -6,3 +6,5 @@ Clustering Techniques: Hierarchical (nested clusters create parent-child relatio
 Data Preprocessing (Data Reduction by Feature Extraction): Principal Component Analysis (PCA) for dimensionality reduction.
 
 Association Rule Learning (Data Mining): Apriori Algorithm. 
+
+Supervised ML Bulids: https://github.com/JanakanSureshraj/Supervised-Algorithms
